@@ -1,0 +1,43 @@
+#benten {
+    width: 300px;
+    height: 200px;
+    border: 20px solid deeppink;
+    padding: 20px;
+    background-color: rgb(5, 122, 5);
+}
+#gwen {
+    width: 300px;
+    height: 200px;
+    border: 20px solid #14ff27;
+    padding: 20px;
+    background-color: rgb(224, 26, 99);
+}
+#hotdog {
+    width: 300px;
+    height: 200px;
+    border: 20px solid rgb(20, 212, 255);
+    padding: 20px;
+    background-color: rgb(237, 34, 12);
+}
+#janasenaDiv{
+    background-color: rgb(182, 5, 5);
+} 
+#TDPDiv{
+    background-color: rgb(214, 210, 6);
+    display: inline-block;
+} 
+#YCPDiv{
+    background-color: rgb(39, 108, 212);
+} 
+#BJPDiv{
+    background-color: rgb(227, 84, 1);
+    display: inline-block;
+} 
+ img{
+    width: 300px;
+ }
+ div p{
+    text-align: justify;
+    width: 450px;
+    display: inline-block;
+ }
